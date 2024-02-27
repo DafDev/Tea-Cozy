@@ -152,12 +152,21 @@ ul {
     opacity: 0.8;
 }
 
+/*Footer*/
+
 .contact {
-    background-color: red;
     height: 200px;
     width: 1000px;
-    
+    margin: auto;
+    margin-top: 0;
+    text-align: center;
 }
+
+.copy {
+    margin-left: 20px;
+}
+
+
 
 
 
