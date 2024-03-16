@@ -116,7 +116,7 @@ ul {
 /*section location*/
 
 .box-location {
-    background-image: url(/Ressources/images/img-locations-background.jpg);
+    background-image: url(../Ressources/images/img-locations-background.jpg);
     background-size: cover;
     position: relative;
     height: 500px;
